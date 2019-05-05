@@ -1,0 +1,176 @@
+    1  git config --global user.name=sasraja
+    2  git config --global user.name="sasraja"
+    3  git config --global user.name "sasraja"
+    4  git config --global user.email "shunmugavelraja@gmail.com"
+    5  git config --global list
+    6  git config --list
+    7  ssh-keygen -t rsa
+    8  git clone git@github.com:sasraja/MyFisrtGItRepository.git
+    9  cd 
+   10  cd myfirstgitrepository/
+   11  ls
+   12  ls
+   13  cd MyFirstGItRepository
+   14  touch abc.txt
+   15  cd /e/GIT/Code_Demo/
+   16  ls
+   17  cd MyFisrtGItRepository/
+   18  ls
+   19  touch abc.txt
+   20  ls
+   21  cat abc.txt
+   22  git status
+   23  git add abc.txt
+   24  git status
+   25  git commit -m "Added this file for first time"
+   26  git status
+   27  git push
+   28  cd ../
+   29  git clone git@github.com:srikrishnaprakash/mysamplerepo.git
+   30  cat abc.txt
+   31  cd mysamplerepo/
+   32  cat abc.txt
+   33  git commit --m "New line"
+   34  git status
+   35  git push
+   36  git pull
+   37  git push
+   38  git add abc.tct
+   39  git pull
+   40  git add abc.txt
+   41  git push
+   42  git commit -m"Test"
+   43  git push
+   44  git pull
+   45  git add abc.txt
+   46  git commit -m"Test"
+   47  Git push
+   48  git pull
+   49  git pull
+   50  git pull 
+   51  git pull 
+   52  git reset --HARD 
+   53  git reset --hard
+   54  git reset --hard
+   55  git status 
+   56  git pull 
+   57  git add abc.txt 
+   58  git commit -m "Testing by me"
+   59  git push 
+   60  history
+   61  history >abx.txt
+   62  git add abx.txt
+   63  git commit -m"Raja"
+   64  git push
+   65  exit
+   66  cd mysamplerepo/
+   67  history >abx.txt
+   68  cd mysamplerepo/
+   69  cd 'E:\GIT\Code_Demo\mysamplerepo\'
+   70  git add 123.txt
+   71  git commit
+   72  ls
+   73  git config --list
+   74  'E:\GIT\Code_Demo\mysamplerepo\'
+   75  git add 123.txt
+   76  touch 123.txt
+   77  cat 123.txt
+   78  git status
+   79  git add 123.txt
+   80  git pull
+   81  cd mysamplerepo
+   82  git reset --hard
+   83  ls
+   84  git add 1234.txt
+   85  clone git@github.com:srikrishnaprakash/mysamplerepo.git
+   86  git clone git@github.com:srikrishnaprakash/mysamplerepo.git
+   87  git add 123.txt
+   88  cd mysamplerepo
+   89  git add 123.txt
+   90  git status
+   91  touch 123.txt
+   92  git status
+   93  git add 123.txt
+   94  git commit -m"added by Raja"
+   95  git push
+   96  touch xyz.txt
+   97  git status
+   98  git add xyz.txt
+   99  git commit -m"Just added"
+  100  git push
+  101  git clone git@github.com:srikrishnaprakash/jpadosession.git
+  102  cd E:\GIT\Code_Demo
+  103  E:
+  104  E;
+  105  pwd
+  106  ls -l
+  107  cd E:
+  108  cd GIT\Code_Demo\
+  109  cd E:\GIT\Code_Demo
+  110  cd E:\GIT\
+  111  git clone git@github.com:srikrishnaprakash/jpadosession.git
+  112  cd E:\GIT\Code_demogit clone git@github.com:srikrishnaprakash/jpadosession.git
+  113  cd E:\GIT\Code_Demo
+  114  clr
+  115  cler
+  116  clear
+  117  pwd
+  118  ls - l
+  119  cd E:\GITls
+  120  pwd
+  121  E:
+  122  cd E:\GIT\Code_Demo
+  123  cd ..
+  124  cd git_repo/
+  125  cd code_demo/
+  126  cd ..
+  127  cd E:\GIT\Code_Demo\
+  128  cd /e/git/Code_Demo/
+  129  mkdir Raja
+  130  git clone git@github.com:srikrishnaprakash/jpadosession.git
+  131  ls
+  132  cat abc.txt
+  133  touch abc.txt
+  134  cd /jpadosession/
+  135  cd /E/git/code_demo/jpadosession/
+  136  mkdir TestOutput
+  137  touch abc.txt
+  138  ls
+  139  ls la
+  140  ls -ls
+  141  git branch
+  142  cat abc.txt
+  143  git pull
+  144  git status
+  145  cat abc.txt
+  146  cat 123.txt
+  147  touch Raja.txt
+  148  git status
+  149  git add raja.txt
+  150  git commit -m"added by sasraja"
+  151  git push
+  152  git add Raja.txt
+  153  git commit -m"added by Raja"
+  154  git push
+  155  git pull
+  156  cat abc.txt
+  157  git commit -m"Modified by Raja"
+  158  git push
+  159  git pull
+  160  git pull
+  161  git pull
+  162  git push
+  163  git status
+  164  git add abc.txt
+  165  commit -m"added by Raja'
+git commit -m"added by Raja'
+commit -m"added by Raja'
+  166  git commit -m"added by Raja"
+  167  git push
+  168  git add abc.txt
+  169  git commit -m"Conflict purpose Raja"
+  170  git push
+  171  git pull
+  172  git pull
+  173  history
+  174  history > RajaCommandstoday.txt
