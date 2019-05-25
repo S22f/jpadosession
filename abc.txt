@@ -1,2 +1,1 @@
-This is my first file now
-modified by Raja + Modified+ConflictPurpose test to rset push
+This is modified by Raja + Modified+ConflictPurpose test to rset push
